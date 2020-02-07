@@ -175,6 +175,28 @@ margin-bottom: 46px;}
 .boxgrise {
   background-color: #231f20 ;}
 
+.ligne1{
+display: flex;
+justify-content: space-between;
+margin-top: 32px;
+margin-bottom: 32px;
+margin-left: 35px;
+margin-right: 35px;}
+.ligne2{
+  display: flex;
+justify-content: space-between;
+margin-top: 32px;
+margin-bottom: 32px;
+margin-left: 35px;
+margin-right: 35px;}
+
+.ligne3{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 32px;
+  margin-bottom: 32px;
+  margin-left: 35px;
+  margin-right: 35px;}
 a {
   /* Link color */
 }

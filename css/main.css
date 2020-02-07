@@ -9,41 +9,16 @@ body {
   /* Default font family and font color */
 }
 
-p, li, textarea, label, input, select {
-  /* Default font size and line height */
-}
-
-.backgroundtitre {
-background: repeat-x;
-}
-
-.premierebox {
+h1 {
   width: 606px;
   height: 123px;
   font-family: 'Poppins', sans-serif;
-  font-size: 50px;
+  font-size: 80px;
   font-weight: 1200;
   font-stretch: normal;
   line-height: normal;
   text-align: center;
-  color: #ffffff;}
-
-.secondebox {
-  text-align: center;
-  width: 484px;
-  height: 53px;
-  font-family: 'Poppins', sans-serif;
-  font-size: 35px;
-  font-weight: 900;
-  font-stretch: normal;
-  font-style: normal;
-  line-height: normal;
-  letter-spacing: normal;
-  color: #ffffff;}
-
-
-h1 {
-   /* Default font, size, and margins */
+  color: #ffffff;
 }
 
 h2 {
@@ -83,6 +58,45 @@ h6 {
   /* Default font, size, and margins */
 }
 
+p{
+  width: 640px;
+  height: 345px;
+  font-family:'Poppins', sans-serif ;
+  font-size: 16px;
+  text-align: justify;
+}
+
+.header {
+background-color: blue;
+background: repeat-x;
+}
+
+.premierebox {
+}
+
+.secondebox {
+  text-align: center;
+  width: 484px;
+  height: 53px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 35px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;}
+
+.button {
+  width: 200px;
+  height: 70px;
+  border: solid ;
+  border-radius: 5px;
+  border-bottom-color: #ffffff;}
+
+.picturea {
+  float: right;
+}
 
 a {
   /* Link color */

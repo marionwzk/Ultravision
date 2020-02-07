@@ -13,6 +13,33 @@ p, li, textarea, label, input, select {
   /* Default font size and line height */
 }
 
+.backgroundtitre {
+background: repeat-x;
+}
+
+.premierebox {
+  width: 606px;
+  height: 123px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 50px;
+  font-weight: 1200;
+  font-stretch: normal;
+  line-height: normal;
+  text-align: center;
+  color: #ffffff;}
+
+.secondebox {
+  text-align: center;
+  width: 484px;
+  height: 53px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 35px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;}
 
 
 h1 {
@@ -20,15 +47,32 @@ h1 {
 }
 
 h2 {
-  /* Default font, size, and margins */
+  width: 993px;
+  height: 56px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+  text-align: center;
+  color: var(--Ultravision-Black);
 }
 
 h3 {
-  /* Default font, size, and margins */
+  width: 640px;
+  height: 33px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 24px;
+  font-weight: 900;
+  text-align: center;
+  color: var(--Ultravision-Black);
 }
 
 h4 {
-  /* Default font, size, and margins */
+  width: 640px;
+  height: 33px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
 }
 
 h5 {

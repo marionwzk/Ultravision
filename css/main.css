@@ -87,7 +87,7 @@ padding-right: 32px;}
 .box-image{
   flex-basis: 0;
   flex-grow: 1;
-background-color: #fcce00 ;
+background : linear-gradient( #fcce00,#ffffff) ;
 padding-left: 48px;
 padding-right: 32px;
 margin-bottom: 97px;
@@ -97,7 +97,7 @@ margin-bottom: 97px;
 mix-blend-mode: darken;}
 
 .paragraphe--secondary .box-image {
-  background-color: #ff6b00;
+  background : linear-gradient( #ff6b00,#ffffff);
 }
 
 
@@ -130,18 +130,18 @@ mix-blend-mode: darken;}
 .cadrerouge{
   display: flex;
   justify-content: space-between;
-  background-color: #e02020 
+  background : linear-gradient( #e02020 ,#fcdede);
 }
 
 .cadreviolet{
   display: flex;
   justify-content: space-between;
- background-color:  #b620e0 ;
+ background : linear-gradient( #b620e0, #fcdede);
 }
 .cadremauve{
   display: flex;
   justify-content: space-between;
-  background-color: #6236ff ;}
+  background : linear-gradient( #6236ff, #e5defc);}
 
 .box{ flex-basis: 0;
   flex-grow: 1;
